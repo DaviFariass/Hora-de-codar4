@@ -1,6 +1,6 @@
 principal()
 function principal()
-{   var escolha = parseFloat(prompt("Escolha uma opção de 1 a 11\n1) Cadastro de estudantes\n2) Array de planetas do sitema solar\n3) Array de frutas da minha escolha"));
+{   var escolha = parseFloat(prompt("Escolha uma opção de 1 a 3\n1) Cadastro de estudantes\n2) Array de planetas do sitema solar\n3) Array de frutas da minha escolha"));
 
     switch(escolha){
 
